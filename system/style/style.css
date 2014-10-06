@@ -1,0 +1,90 @@
+body {font-family: sans-serif;}
+
+/* Admin Jogos */
+.jogosLinha {
+    margin:10px 0;
+    border: 1px solid #CCC;
+    padding: 10px;
+    background: #E7E7E7;
+    float:left;
+    border-radius: 4px;
+}
+.adjust-top {margin-top: 10px;}
+.divDeletar {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+    padding: 15px;
+    margin:15px;
+    border-radius: 5px;
+}
+/*
+========================================================
+===>  Tabela
+========================================================
+*/
+/* Cores Tabela */
+.dark {
+    line-height: 25px;
+    vertical-align: middle;
+    padding-top: 5px;
+    border: 1px solid #CCC;
+    background-color: #EEE;
+    border-left: none;
+    border-right: none;
+}
+.top {
+    line-height: 25px;
+    vertical-align: middle;
+    padding-top: 5px;
+    border: 1px solid #CCC;
+    background-color: #666;
+    color: #FFF;
+    border-left: none;
+    border-right: none;
+}
+.light {
+    line-height: 25px;
+    vertical-align: middle;
+    padding-top: 5px;
+}
+/* Fim Cores Tabela */
+
+/* Carrossel */
+.carousel-control {max-height: 30px;}
+.tabelaRodada {
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+    background: #CCC;
+    min-height: 30px;
+}
+img.rodadaTable {width: 100%;margin:5px;}
+img.rodadaTableLine {width: 20px; height: auto;}
+.rodadaResult {padding-top: 10%;}
+.maisInfoTabela {display: none;}
+.maisInfoImg {max-width:32px;}
+.maisInfoJogo {min-height: 50px;}
+.linhaMaisInfoD {background: #CCC;}
+.linhaMaisInfoL {background: #FFF;}
+.resultadoCirculo {width:10px; height: 10px;border-radius: 5px;border: solid 1px black;margin-top: 8px;}
+/*
+========================================================
+===>  FIM Tabela
+========================================================
+*/
+
+.titlePopover {min-width: 213px; text-align: center}
+.golPopover {
+    background: black;
+    color: white;
+    font-weight: 600;
+    padding: 0 4px;
+    border-radius: 4px;
+}
+
+
+
+
+.margin0 {margin: 0}
+.margin10 {margin: 10px}
